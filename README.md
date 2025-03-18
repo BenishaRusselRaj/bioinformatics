@@ -59,15 +59,15 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 Code | Course | Duration | Effort | Selected [Y/N] | Status
 :-- | :--: | :--: | :--: | :--: | :--:
-BIO 1311 | [Fundamentals of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | 12 weeks | 7-14 Hours/Week | |[ ]
-CHEM 1311 | [Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/) | 15 Weeks | 4-6 Hours/Week |  |[ ]
-Py4E | [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week |  |[ ]
-6.00.1x | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week |  |[ ]
-MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week |  |[ ]
-MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week |  |[ ]
-18.01.1x | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | | [ ]
-18.01.2x | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week |  |[ ]
-MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week |  |[ ]
+BIO 1311 | [Fundamentals of Biology](https://ocw.mit.edu/courses/7-01sc-fundamentals-of-biology-fall-2011/) | 12 weeks | 7-14 Hours/Week | |<ul><li>- [ ] </li></ul>
+CHEM 1311 | [Principles of Chemical Science](https://ocw.mit.edu/courses/5-111sc-principles-of-chemical-science-fall-2014/) | 15 Weeks | 4-6 Hours/Week |  |<ul><li>- [ ] </li></ul>
+Py4E | [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week |  |<ul><li>- [ ] </li></ul>
+6.00.1x | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week |  |<ul><li>- [ ] </li></ul>
+MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week |  |<ul><li>- [ ] </li></ul>
+MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week |  |<ul><li>- [ ] </li></ul>
+18.01.1x | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week | |<ul><li>- [ ] </li></ul>
+18.01.2x | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week |  |<ul><li>- [ ] </li></ul>
+MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week |  |<ul><li>- [ ] </li></ul>
 
 
 ### 2nd Year
